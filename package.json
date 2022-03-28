@@ -1,0 +1,23 @@
+{
+  "name": "portafolio-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martiponce/Portafolio-Web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martiponce/Portafolio-Web/issues"
+  },
+  "homepage": "https://github.com/martiponce/Portafolio-Web#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
